@@ -1,0 +1,1 @@
+PyTorch implementation of batch **SigmaSVD**, reproducing the Section 4.2 experiments from *A Multilevel Low-Rank Newton Method with Super-linear Convergence Rate and its Application to Non-convex Problems* ([https://openreview.net/pdf?id=PKakPzVVja](https://openreview.net/pdf?id=PKakPzVVja)).
